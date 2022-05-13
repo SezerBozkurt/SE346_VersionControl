@@ -9,5 +9,7 @@ int main()
 	printf("Z.Yaren Oguz,123456,SE\n");
 
 	printf("Ozge Tekin,987654,SE\n");
-
+    
+	printf("Sezer Bozkurt,160309031,ISE\n");
+	
 }
